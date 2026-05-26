@@ -70,6 +70,10 @@ button {
   background: #e5522a;
 }
 
+.move-btn{
+  background-color: #76bdc0;
+}
+
 
 ol {
   list-style: none;
